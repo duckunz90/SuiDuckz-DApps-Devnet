@@ -17,7 +17,6 @@ import Button from "../../../../common/button";
 
 const Vote = () => {
   const handleVote = (categoryIndex, itemIndex, action) => {
-    // Implementasi logika like/dislike di sini
   };
 
 
