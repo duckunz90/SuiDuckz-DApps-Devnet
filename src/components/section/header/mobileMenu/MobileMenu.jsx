@@ -20,8 +20,6 @@ const MobileMenu = ({ mobileMenuhandle }) => {
       // Wallet is already connected, you can add logic here if needed
     } else {
       wallet.disconnect();
-      // Tambahkan logika koneksi atau tampilkan modal koneksi jika diperlukan
-      // Gantilah dengan fungsi yang sesuai di aplikasi Anda
       // openModal('ConnectWalletModal');
     }
   };
