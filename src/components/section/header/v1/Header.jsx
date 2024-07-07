@@ -19,8 +19,6 @@ const Header = () => {
 
   const handleConnectButtonClick = () => {
     if (wallet && status === EthosConnectStatus.NoConnection) {
-      // Buka modal connect jika wallet tidak terkoneksi
-      // Contoh: openModal('ConnectWalletModal');
     } else {
       wallet.disconnect();
       navigate('/connect-your-wallet');
