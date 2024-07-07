@@ -37,7 +37,7 @@ or, if you are using Yarn:
 
 The application will run at http://localhost:3000.
 
-### or use codespan to preview our DApps
+### or use codespaces to preview our DApps
 
 # Contributing
 If you would like to contribute to this project, please follow these steps:
