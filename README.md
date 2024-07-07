@@ -41,7 +41,7 @@ The application will run at http://localhost:3000.
 
 ### FEATURES
 
-- Sui Connect Wllet using Ethos Wallet
+- Sui Connect Wallet using Ethos Wallet
 - SuiDuckz Story
 
 # Contributing
